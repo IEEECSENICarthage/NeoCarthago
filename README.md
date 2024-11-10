@@ -43,18 +43,23 @@ This repository includes all configuration files for our infrastructure, the AI 
 
 ## <a name="features">🔋 Features</a>
 
-👉 **Effectiveness of AI Model**: Our AI model detect and mitigate a wide range of cyber threats in real-time with high accuracy
+👉 **Effectiveness of AI Model**: 
+Our AI model detect and mitigate a wide range of cyber threats in real-time with high accuracy
 and minimal false positives/negatives.
 
-👉 **Scalability and Resilience of Infrastructure**: The solution architecture is highly scalable and resilient, handling large-scale operations
+👉 **Scalability and Resilience of Infrastructure**: 
+The solution architecture is highly scalable and resilient, handling large-scale operations
 without performance degradation.
 
-👉 **Usability and Efficiency of the Interface**: The user interface is intuitive, user-friendly, and facilitates efficient incident response and
+👉 **Usability and Efficiency of the Interface**: 
+The user interface is intuitive, user-friendly, and facilitates efficient incident response and
 analysis.
 
-👉 **Integration with Existing Cybersecurity Ecosystem**: The solution integrates seamlessly with existing tools and systems, ensuring full interoperability.
+👉 **Integration with Existing Cybersecurity Ecosystem**: 
+The solution integrates seamlessly with existing tools and systems, ensuring full interoperability.
 
-👉 **Security and Privacy Compliance**: The solution implements strong security measures and fully complies with relevant regulations.
+👉 **Security and Privacy Compliance**: 
+The solution implements strong security measures and fully complies with relevant regulations.
 
 and many more! 
 
