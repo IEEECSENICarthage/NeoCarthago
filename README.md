@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://youtu.be/0fYi8SGA20k?feature=shared" target="_blank">
-      <img src="https://github.com/IEEECSENICarthage/NeoCarthago/Banner" alt="Project Banner">
+      <img src="https://github.com/IEEECSENICarthage/NeoCarthago/blob/main/NeoCarthago_Banner.png" alt="Project Banner">
     </a>
   <br />
 
@@ -70,11 +70,11 @@ Ensure your machine has the following specifications:
 - RAM: at least 16GB.
 
 ## <a name="More">🚀 Contact us</a>
-**Defend Your Digital Space with NeoCarthago**
+We welcome any questions, feedback, or inquiries related to NeoCarthago. Please feel free to reach out to us through our Email: enicarthage.ieee.cs@gmail.com
 
 The website of NeoCarthago can be found [here](https://neocarthago.vercel.app/)
 
-We welcome any questions, feedback, or inquiries related to NeoCarthago. Please feel free to reach out to us through our Email: enicarthage.ieee.cs@gmail.com
+
 
 <img src="https://github.com/IEEECSENICarthage/NeoCarthago/blob/main/Neo_Banner.png" alt="Contact us" width="100%">
 
