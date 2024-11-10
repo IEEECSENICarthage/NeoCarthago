@@ -5,9 +5,8 @@
     </a>
   <br />
 
-
    <div align="center">
-     Watch simulations of various attack types to understand threat behaviors and see our solution in action in <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>this video/b></a>
+     Watch simulations of various attack types to understand threat behaviors and see our solution in action in <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>this video</b></a>
     </div>
 </div>
 
@@ -17,15 +16,13 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
-6. 🚀 [Contact us](#More)
+5. 🚀 [Contact us](#contact)
 
-
-## <a name="introduction">🤖 Introduction</a>
+## 🤖 <a name="introduction">Introduction</a>
 
 This repository includes all configuration files for our infrastructure, the AI model script, Nmap and Gemini configurations, the prototype, and the code for our website.
 
-
-## <a name="tech-stack">⚙️ Tech Stack</a>
+## ⚙️ <a name="tech-stack">Tech Stack</a>
 
 1. **Ubuntu** - Operating system for server and endpoint management.
 2. **Windows** - Operating system for endpoint testing and administration.
@@ -40,44 +37,27 @@ This repository includes all configuration files for our infrastructure, the AI 
 11. **PuTTY** - Secure remote administration tool for servers and network devices.
 12. **Slack** - Communication platform for team collaboration and project coordination.
 
+## 🔋 <a name="features">Features</a>
 
-## <a name="features">🔋 Features</a>
+- **Effectiveness of AI Model**: Detects and mitigates a wide range of cyber threats in real-time with high accuracy.
+- **Scalability and Resilience of Infrastructure**: Handles large-scale operations without performance degradation.
+- **Usability and Efficiency of the Interface**: Intuitive, user-friendly interface facilitates incident response.
+- **Integration with Existing Cybersecurity Ecosystem**: Fully interoperable with existing tools and systems.
+- **Security and Privacy Compliance**: Strong security measures ensure compliance with relevant regulations.
 
-👉 **Effectiveness of AI Model**: 
-Our AI model detect and mitigate a wide range of cyber threats in real-time with high accuracy
-and minimal false positives/negatives.
-
-👉 **Scalability and Resilience of Infrastructure**: 
-The solution architecture is highly scalable and resilient, handling large-scale operations
-without performance degradation.
-
-👉 **Usability and Efficiency of the Interface**: 
-The user interface is intuitive, user-friendly, and facilitates efficient incident response and
-analysis.
-
-👉 **Integration with Existing Cybersecurity Ecosystem**: 
-The solution integrates seamlessly with existing tools and systems, ensuring full interoperability.
-
-👉 **Security and Privacy Compliance**: 
-The solution implements strong security measures and fully complies with relevant regulations.
-
-and many more! 
-
-## <a name="quick-start">🤸 Quick Start</a>
+## 🤸 <a name="quick-start">Quick Start</a>
 
 **Prerequisites**
 
-Ensure your machine has the following specifications: 
+Ensure your machine has the following specifications:
 
 - Processor: Intel i7 or AMD Ryzen 7
 - RAM: at least 16GB.
 
-## <a name="More">🚀 Contact us</a>
-We welcome any questions, feedback, or inquiries related to NeoCarthago. Please feel free to reach out to us through our Email: enicarthage.ieee.cs@gmail.com
+## 🚀 <a name="contact">Contact us</a>
 
-The website of NeoCarthago can be found [here](https://neocarthago.vercel.app/)
+We welcome any questions, feedback, or inquiries related to NeoCarthago. Please feel free to reach out to us through our email: enicarthage.ieee.cs@gmail.com
 
-
+Visit the NeoCarthago website [here](https://neocarthago.vercel.app/).
 
 <img src="https://github.com/IEEECSENICarthage/NeoCarthago/blob/main/Neo_Banner.png" alt="Contact us" width="100%">
-
