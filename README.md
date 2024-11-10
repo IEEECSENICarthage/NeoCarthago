@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://drive.google.com/file/d/1JQUCD0TjrSI9D-B2QmHHfB6-QKbWTKSD/view?usp=sharing" target="_blank">
-      <img src="https://github.com/IEEECSENICarthage/NeoCarthago/blob/main/NeoCarthago_Banner.png" alt="Project Banner">
+      <img src="https://github.com/IEEECSENICarthage/NeoCarthago/blob/main/assets/hero.png" alt="Project Banner">
     </a>
   <br />
 
@@ -60,4 +60,4 @@ We welcome any questions, feedback, or inquiries related to NeoCarthago. Please 
 
 Visit the NeoCarthago website [here](https://neocarthago.vercel.app/).
 
-<img src="https://github.com/IEEECSENICarthage/NeoCarthago/blob/main/Neo_Banner.png" alt="Contact us" width="100%">
+<img src="https://github.com/IEEECSENICarthage/NeoCarthago/blob/main/assets/banner.png" alt="Contact us" width="100%">
