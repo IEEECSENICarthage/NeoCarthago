@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://youtu.be/0fYi8SGA20k?feature=shared" target="_blank">
-      <img src="https://github.com/IEEECSENICarthage/NeoCarthago/assets/Banner" alt="Project Banner">
+      <img src="https://github.com/IEEECSENICarthage/NeoCarthago/Banner" alt="Project Banner">
     </a>
   <br />
 
@@ -9,7 +9,7 @@
   <h3 align="center">NeoCarthago</h3>
 
    <div align="center">
-     "Watch simulations of various attack types to understand threat behaviors and see our solution in action in" <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>this video/b></a>
+     Watch simulations of various attack types to understand threat behaviors and see our solution in action in <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>this video/b></a>
     </div>
 </div>
 
@@ -76,5 +76,5 @@ The website of NeoCarthago can be found [here](https://neocarthago.vercel.app/)
 
 We welcome any questions, feedback, or inquiries related to NeoCarthago. Please feel free to reach out to us through our Email: enicarthage.ieee.cs@gmail.com
 <a>
-<img src="https://i.ibb.co/804sPK6/Image-720.png" alt="Contact us">
+<img src="https://github.com/IEEECSENICarthage/NeoCarthago/Neo_Banner" alt="Contact us">
 </a>
