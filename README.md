@@ -165,7 +165,7 @@ NeoCarthago's AI solution is designed to detect and mitigate several types of co
 - **Vulnerability Scanning**: Highlighting insecure configurations and services, allowing teams to address issues before exploitation.
   
 ### Gemini
-**Gemini** is a conversational AI model by OpenAI that assists cybersecurity teams by providing quick insights, explanations, and recommendations for complex security topics and workflows. Its language-based understanding and versatility make it useful for generating scripts, automating documentation, and providing real-time guidance in incident response scenarios. Gemini can be a powerful assistant for interpreting log data, suggesting remediation steps, or acting as a knowledge base to support less experienced team members.
+**Gemini** is a conversational AI model by Google that assists cybersecurity teams by providing quick insights, explanations, and recommendations for complex security topics and workflows. Its language-based understanding and versatility make it useful for generating scripts, automating documentation, and providing real-time guidance in incident response scenarios. Gemini can be a powerful assistant for interpreting log data, suggesting remediation steps, or acting as a knowledge base to support less experienced team members.
 
 **Common Uses of Gemini in Cybersecurity**:
 - **Threat Intelligence**: Quickly reviewing and interpreting threat feeds, providing context to logs or alerts.
