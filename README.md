@@ -6,8 +6,6 @@
   <br />
 
 
-  <h3 align="center">NeoCarthago</h3>
-
    <div align="center">
      Watch simulations of various attack types to understand threat behaviors and see our solution in action in <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>this video/b></a>
     </div>
