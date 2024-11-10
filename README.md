@@ -18,9 +18,9 @@
   - [Wazuh Dashboard Configuration](#wazuh-dashboard-configuration)
 - [NeoCarthago's AI](#neocarthagos-ai)
   - [Supported Attacks](#supported-attacks)
-- [Nmap and ChatGPT in Cybersecurity](#nmap-and-chatgpt-in-cybersecurity)
+- [Nmap and Gemini in Cybersecurity](#nmap-and-gemini-in-cybersecurity)
   - [Nmap](#nmap)
-  - [ChatGPT](#chatgpt)
+  - [Gemini](#gemini)
 - [Resources](#Resources)
 - [Contributing](#contributing)
 - [Credits](#credits)
@@ -153,7 +153,7 @@ NeoCarthago's AI solution is designed to detect and mitigate several types of co
 - **Brute Force Attack**: Flags multiple failed login attempts that suggest a brute force attack.
 - **LLMNR Attack**: Detects file encryption behaviors commonly associated with ransomware.
 
-### Nmap and ChatGPT in Cybersecurity
+### Nmap and Gemini in Cybersecurity
 
 ### Nmap
 **Nmap** (Network Mapper) is a powerful, open-source network scanning tool widely used in cybersecurity for network discovery, security auditing, and vulnerability assessment. It allows security professionals to detect live hosts, open ports, running services, and system details on networks, providing a clear picture of an environment's security posture. Nmap can be used to identify misconfigurations, weak points, and vulnerabilities in a network, making it an invaluable tool for proactive threat management and incident response.
@@ -164,16 +164,16 @@ NeoCarthago's AI solution is designed to detect and mitigate several types of co
 - **Service and Version Detection**: Gathering information on software versions to check for known vulnerabilities.
 - **Vulnerability Scanning**: Highlighting insecure configurations and services, allowing teams to address issues before exploitation.
   
-### ChatGPT
-**ChatGPT** is a conversational AI model by OpenAI that assists cybersecurity teams by providing quick insights, explanations, and recommendations for complex security topics and workflows. Its language-based understanding and versatility make it useful for generating scripts, automating documentation, and providing real-time guidance in incident response scenarios. ChatGPT can be a powerful assistant for interpreting log data, suggesting remediation steps, or acting as a knowledge base to support less experienced team members.
+### Gemini
+**Gemini** is a conversational AI model by OpenAI that assists cybersecurity teams by providing quick insights, explanations, and recommendations for complex security topics and workflows. Its language-based understanding and versatility make it useful for generating scripts, automating documentation, and providing real-time guidance in incident response scenarios. Gemini can be a powerful assistant for interpreting log data, suggesting remediation steps, or acting as a knowledge base to support less experienced team members.
 
-**Common Uses of ChatGPT in Cybersecurity**:
+**Common Uses of Gemini in Cybersecurity**:
 - **Threat Intelligence**: Quickly reviewing and interpreting threat feeds, providing context to logs or alerts.
 - **Script Generation**: Assisting in writing scripts for automated tasks like log parsing, file scanning, or data filtering.
 - **Incident Response**: Offering actionable insights and structured steps for common incident types, which can speed up the response process.
 - **Documentation**: Streamlining the creation of detailed reports, readme files, or guidelines for cybersecurity processes.
 
-Combining **Nmap** for network security assessment and **ChatGPT** for contextual insights and automation enables security teams to streamline processes, reduce response time, and strengthen defenses against evolving cyber threats.
+Combining **Nmap** for network security assessment and **Gemini** for contextual insights and automation enables security teams to streamline processes, reduce response time, and strengthen defenses against evolving cyber threats.
 
 ---
 
@@ -194,7 +194,7 @@ We welcome contributions! To contribute to Cyber Shield:
 tHE Following ressources may help you during the configuration of different aspects of this solution:
 
 - **VirusTotal** - https://documentation.wazuh.com/current/proof-of-concept-guide/detect-remove-malware-virustotal.html
-- **Nmap/chatgpt** - https://wazuh.com/blog/nmap-and-chatgpt-security-auditing/?fbclid=IwY2xjawGQrn9leHRuA2FlbQIxMAABHVBjCIFMQUj-yL_LemN1DL3kjdNQu-i5dT1x6DCZ_C6XBWKZULStNvnh9Q_aem_6mCpWvQziBX_rJEhjd2fSA
+- **Nmap/Chatgpt** - https://wazuh.com/blog/nmap-and-chatgpt-security-auditing/?fbclid=IwY2xjawGQrn9leHRuA2FlbQIxMAABHVBjCIFMQUj-yL_LemN1DL3kjdNQu-i5dT1x6DCZ_C6XBWKZULStNvnh9Q_aem_6mCpWvQziBX_rJEhjd2fSA
 
 ## Credits
 
