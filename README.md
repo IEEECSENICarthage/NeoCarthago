@@ -76,5 +76,5 @@ The website of NeoCarthago can be found [here](https://neocarthago.vercel.app/)
 
 We welcome any questions, feedback, or inquiries related to NeoCarthago. Please feel free to reach out to us through our Email: enicarthage.ieee.cs@gmail.com
 
-<img src="https://github.com/IEEECSENICarthage/NeoCarthago/blob/main/Neo_Banner.png" alt="Contact us" height="100px">
+<img src="https://github.com/IEEECSENICarthage/NeoCarthago/blob/main/Neo_Banner.png" alt="Contact us" width="100%">
 
